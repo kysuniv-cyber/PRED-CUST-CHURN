@@ -21,7 +21,7 @@ st.write("현재 폴더 파일 목록:", os.listdir())
 entry_p = st.Page("pages/entry.py", title="홈", icon="🏠", default=True)
 churn_predictor_p = st.Page("pages/churn_predictor.py", title="고객이탈예측", icon="🔮")
 risk_watchlist_p = st.Page("pages/risk_watchlist.py", title="위험리스트", icon="🚨")
-test_p = st.Page("pages/test.py", title="test", icon="🦊")
+test_p = st.Page("pages/test.py", title="아아아", icon="🦊" )
 
 # 내비게이션 실행
 pg = st.navigation({
