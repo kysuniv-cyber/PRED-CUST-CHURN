@@ -101,7 +101,7 @@ div[data-testid="stSidebarNav"] ul {
 # =============================
 # 데이터 로드
 # =============================
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 DATA_PATH = DATA_DIR / "insurance_policyholder_churn_synthetic.csv"
 DICT_PATH = DATA_DIR / "insurance_policyholder_churn_data_dictionary.csv"
