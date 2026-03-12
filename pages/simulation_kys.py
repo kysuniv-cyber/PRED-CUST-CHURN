@@ -402,7 +402,7 @@ def run_single_policy_simulations(
     return pd.DataFrame(rows).sort_values("평균 이탈확률 감소폭", ascending=True)
 
 # ==============================
-# 예쁜 막대그래프 함수
+# 막대그래프 함수
 # ==============================
 def draw_pretty_bar_chart(title, ylabel, before_value, after_value, before_color, after_color):
     fig, ax = plt.subplots(figsize=(6.2, 4.45), facecolor="white")
@@ -412,13 +412,13 @@ def draw_pretty_bar_chart(title, ylabel, before_value, after_value, before_color
     values = [before_value, after_value]
     colors = [before_color, after_color]
 
-    x = np.array([0, 0.78])
+    x = np.array([0.10, 0.7])
 
     bars = ax.bar(
         x,
         values,
         color=colors,
-        width=0.30,
+        width=0.15,
         edgecolor="none",
         zorder=3
     )
@@ -452,7 +452,7 @@ def draw_pretty_bar_chart(title, ylabel, before_value, after_value, before_color
     ax.set_xlim(-0.22, 1.0)
 
     # 값 라벨
-    value_colors = ["#111827", "#1D4ED8"]
+    value_colors = ["#111827", "#576A8F"]
     for idx, (bar, value) in enumerate(zip(bars, values)):
         ax.text(
             bar.get_x() + bar.get_width() / 2,
@@ -607,7 +607,7 @@ with col5:
 st.divider()
 
 # ==============================
-# 그래프 영역 - 예쁜 버전
+# 그래프 영역
 # ==============================
 st.markdown('<div class="section-title">💡 기대 효과 분석</div>', unsafe_allow_html=True)
 
@@ -619,8 +619,8 @@ with col_left:
         ylabel="이탈확률 (%)",
         before_value=float(base_result["avg_prob"]),
         after_value=float(sim_result["avg_prob"]),
-        before_color="#F2A4A4",
-        after_color="#78A6E3",
+        before_color="#FF7444",
+        after_color="#B7BDF7",
     )
     st.pyplot(fig1, use_container_width=True)
     plt.close(fig1)
@@ -631,8 +631,8 @@ with col_right:
         ylabel="예상 이탈률 (%)",
         before_value=float(base_result["churn_rate"]),
         after_value=float(sim_result["churn_rate"]),
-        before_color="#E59696",
-        after_color="#6D9CD0",
+        before_color="#FF7444",
+        after_color="#B7BDF7",
     )
     st.pyplot(fig2, use_container_width=True)
     plt.close(fig2)
