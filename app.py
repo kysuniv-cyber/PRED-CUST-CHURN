@@ -111,16 +111,19 @@ st.markdown(
         }
         .section-card {
             background-color: white;
-            border: 1px solid #e5e7eb;
-            border-radius: 18px;
+            # border: 1px solid #e5e7eb;
+            # border-radius: 18px;
             padding: 18px 20px;
             margin-top: 12px;
+            height: 100%;
         }
         .section-title {
             font-size: 1.6rem;
             font-weight: 800;
             color: #0f172a;
             margin-bottom: 0.5rem;
+            border-left: 5px solid #3b82f6;
+            padding-left: 10px;
         }
         div[data-testid="stSidebarNav"]::before {
             content: "보험 이탈 예측\\A고객 관리 시스템";

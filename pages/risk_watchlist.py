@@ -34,7 +34,7 @@ st.markdown(
     color: #64748b;
     margin-bottom: 2rem;
 }
-.card-emergency {background-color: #fee2e2; border: 1px solid #7f1d1d;border-radius: 18px;padding: 20px; }
+.card-emergency {background-color: #fee2e2; border: 1px solid #b91c1c;border-radius: 18px;padding: 20px; }
 .card-danger { background-color: #fff5f5; border: 1px solid #fecaca; border-radius: 18px; padding: 20px; }
 .card-warning { background-color: #fffbeb; border: 1px solid #fed7aa; border-radius: 18px; padding: 20px; }
 .card-success { background-color: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 18px; padding: 20px; }

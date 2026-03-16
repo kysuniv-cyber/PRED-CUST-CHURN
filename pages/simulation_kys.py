@@ -644,7 +644,7 @@ if run_simulation:
     with col4:
         st.metric("방어 고객 수", f'{saved_customers:,}명')
     with col5:
-        st.metric("예상 방어 매출", f"{saved_value / 1000000:,.1f}백만 원")
+        st.metric("예상 방어 매출(백만 원)", f"{saved_value / 1000000:,.0f}")
 
     # --- 시각화: 정책별 효과 비교 (주석 해제 및 활성화) ---
     st.markdown('<div class="section-title">📌 정책별 기여도 분석</div>', unsafe_allow_html=True)
