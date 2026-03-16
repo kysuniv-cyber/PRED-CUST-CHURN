@@ -110,7 +110,7 @@ with col_right:
                        labels=dict(x="예측값", y="실제값", color="인원 수"),
                        x=['유지 예측', '이탈 예측'],
                        y=['실제 유지', '실제 이탈'],
-                       text_auto=True, color_continuous_scale='YlGn')
+                       text_auto=True, color_continuous_scale='GnBu')
     st.plotly_chart(fig_cm, use_container_width=True)
     st.markdown('</div>', unsafe_allow_html=True)
 
