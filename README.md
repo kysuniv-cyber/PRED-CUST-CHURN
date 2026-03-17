@@ -199,200 +199,201 @@ PRED-CUST-CHURN/
 ```
 
 ## 8. 🫱🏻‍🫲🏻팀원 회고
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd; margin-bottom: 30px;">
-    <thead>
-        <tr style="background-color: #f8f9fa;">
-            <th style="width: 15%; border: 1px solid #ddd; padding: 10px;">대상자</th>
-            <th style="width: 15%; border: 1px solid #ddd; padding: 10px;">작성자</th>
-            <th style="border: 1px solid #ddd; padding: 10px;">회고 내용</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan="5" style="text-align: center; font-weight: bold; border: 1px solid #ddd;">김이선</td>
-            <td style="text-align: center; border: 1px solid #ddd;">박기은</td>
-            <td style="border: 1px solid #ddd; padding: 10px;">스트림릿의 전체 구조를 기획하고 화면 구성의 기반을 마련하여 팀원들이 효율적으로 개발을 이어갈 수 있도록 큰 역할을 해주셨습니다.</td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-    </tbody>
+
+<table>
+  <thead>
+    <tr>
+      <th>대상자</th>
+      <th>작성자</th>
+      <th>회고 내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">김이선</td>
+      <td>박기은</td>
+      <td>스트림릿의 전체 구조를 기획하고 화면 구성을 기반으로 하여 팀원들이 효율적으로 개발할 수 있도록 큰 역할을 해주셨습니다.</td>
+    </tr>
+    <tr>
+      <td>박은지</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>위희찬</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>이선호</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>홍지윤</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd; margin-bottom: 30px;">
-    <thead>
-        <tr style="background-color: #f8f9fa;">
-            <th style="width: 15%; border: 1px solid #ddd; padding: 10px;">대상자</th>
-            <th style="width: 15%; border: 1px solid #ddd; padding: 10px;">작성자</th>
-            <th style="border: 1px solid #ddd; padding: 10px;">회고 내용</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan="5" style="text-align: center; font-weight: bold; border: 1px solid #ddd;">박기은</td>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-    </tbody>
+<table>
+  <thead>
+    <tr>
+      <th>대상자</th>
+      <th>작성자</th>
+      <th>회고 내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">박기은</td>
+      <td>김이선</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>박은지</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>위희찬</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>이선호</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>홍지윤</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd; margin-bottom: 30px;">
-    <thead>
-        <tr style="background-color: #f8f9fa;">
-            <th style="width: 15%; border: 1px solid #ddd; padding: 10px;">대상자</th>
-            <th style="width: 15%; border: 1px solid #ddd; padding: 10px;">작성자</th>
-            <th style="border: 1px solid #ddd; padding: 10px;">회고 내용</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan="5" style="text-align: center; font-weight: bold; border: 1px solid #ddd;">박은지</td>
-            <td style="text-align: center; border: 1px solid #ddd;">박기은</td>
-            <td style="border: 1px solid #ddd; padding: 10px;">프로젝트에 적합한 데이터셋을 선정하는데 기여하셨으며 컨디션이 좋지 않은 와중에도 발표 준비를 맡아 자료 정리에 힘써주셨습니다.</td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-    </tbody>
+<table>
+  <thead>
+    <tr>
+      <th>대상자</th>
+      <th>작성자</th>
+      <th>회고 내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">박은지</td>
+      <td>김이선</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>박기은</td>
+      <td>프로젝트에 적합한 데이터셋 선정에 기여하였고, 컨디션이 좋지 않은 와중에도 발표 준비와 자료 정리에 힘써주셨습니다.</td>
+    </tr>
+    <tr>
+      <td>위희찬</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>이선호</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>홍지윤</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd; margin-bottom: 30px;">
-    <thead>
-        <tr style="background-color: #f8f9fa;">
-            <th style="width: 15%; border: 1px solid #ddd; padding: 10px;">대상자</th>
-            <th style="width: 15%; border: 1px solid #ddd; padding: 10px;">작성자</th>
-            <th style="border: 1px solid #ddd; padding: 10px;">회고 내용</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan="5" style="text-align: center; font-weight: bold; border: 1px solid #ddd;">위희찬</td>
-            <td style="text-align: center; border: 1px solid #ddd;">박기은</td>
-            <td style="border: 1px solid #ddd; padding: 10px;">프로젝트에서 가장 중요한 머신러닝 모델 학습과 성능 최적화를 담당하여 예측 결과의 완성도를 높이는 데 기여해주셨습니다.</td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-    </tbody>
+<table>
+  <thead>
+    <tr>
+      <th>대상자</th>
+      <th>작성자</th>
+      <th>회고 내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">위희찬</td>
+      <td>김이선</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>박기은</td>
+      <td>프로젝트에서 가장 중요한 머신러닝 모델 학습과 성능 최적화를 담당하여 예측 결과 완성도를 높이는 데 기여하셨습니다.</td>
+    </tr>
+    <tr>
+      <td>박은지</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>이선호</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>홍지윤</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd; margin-bottom: 30px;">
-    <thead>
-        <tr style="background-color: #f8f9fa;">
-            <th style="width: 15%; border: 1px solid #ddd; padding: 10px;">대상자</th>
-            <th style="width: 15%; border: 1px solid #ddd; padding: 10px;">작성자</th>
-            <th style="border: 1px solid #ddd; padding: 10px;">회고 내용</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan="5" style="text-align: center; font-weight: bold; border: 1px solid #ddd;">이선호</td>
-            <td style="text-align: center; border: 1px solid #ddd;">박기은</td>
-            <td style="border: 1px solid #ddd; padding: 10px;">프로젝트 과정에서 다양한 아이디어를 제시해 주셔서 방향 설정에 큰 도움을 주셨습니다.</td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-    </tbody>
+<table>
+  <thead>
+    <tr>
+      <th>대상자</th>
+      <th>작성자</th>
+      <th>회고 내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">이선호</td>
+      <td>김이선</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>박기은</td>
+      <td>프로젝트 과정에서 다양한 아이디어를 제시해 방향 설정에 큰 도움을 주셨습니다.</td>
+    </tr>
+    <tr>
+      <td>박은지</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>위희찬</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>홍지윤</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd; margin-bottom: 30px;">
-    <thead>
-        <tr style="background-color: #f8f9fa;">
-            <th style="width: 15%; border: 1px solid #ddd; padding: 10px;">대상자</th>
-            <th style="width: 15%; border: 1px solid #ddd; padding: 10px;">작성자</th>
-            <th style="border: 1px solid #ddd; padding: 10px;">회고 내용</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan="5" style="text-align: center; font-weight: bold; border: 1px solid #ddd;">홍지윤</td>
-            <td style="text-align: center; border: 1px solid #ddd;">박기은</td>
-            <td style="border: 1px solid #ddd; padding: 10px;">프로젝트 구조를 설계하여 전체 개발 흐름을 정리하고, 효율적인 작업이 가능하도록 기반을 마련해주셔서 협업이 원활하게 진행될 수 있었습니다.</td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-        <tr>
-            <td style="text-align: center; border: 1px solid #ddd;"></td>
-            <td style="border: 1px solid #ddd; padding: 10px;"></td>
-        </tr>
-    </tbody>
+<table>
+  <thead>
+    <tr>
+      <th>대상자</th>
+      <th>작성자</th>
+      <th>회고 내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">홍지윤</td>
+      <td>김이선</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>박기은</td>
+      <td>프로젝트 구조를 설계하여 전체 개발 흐름을 정리하고, 효율적인 작업 기반을 마련해 협업이 원활히 진행될 수 있었습니다.</td>
+    </tr>
+    <tr>
+      <td>박은지</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>위희찬</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>이선호</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
